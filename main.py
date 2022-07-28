@@ -13,7 +13,7 @@ while True:
     CmdList = cmd.split()
     if len(CmdList) == 0:
         continue
-    if CmdList[0] == 'update' or CmdList[0] == 'u':
+    if CmdList[0] == 'upload' or CmdList[0] == 'u':
         utils.runExt('UploadOnly')
     elif CmdList[0] == 'new' or CmdList[0] == 'n':
         utils.runExt('UploadNewPost')
@@ -26,7 +26,7 @@ while True:
     elif CmdList[0] == 'QUIT':
         os._exit(0)
     elif CmdList[0] == 'help' or CmdList[0] == 'h':
-        print('%-15s%s' % ('update(u):', 'Upload all the changes.'))
+        print('%-15s%s' % ('upload(u):', 'Upload all the changes.'))
         print('%-15s%s' % ('new(n):', 'Create a new post.'))
         print('%-15s%s' % ('list(l):', 'Show the list of the posts.'))
         print('%-15s%s' % ('listen:', ''))
