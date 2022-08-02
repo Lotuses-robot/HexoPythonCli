@@ -4,7 +4,7 @@ import warnings
 warnings.filterwarnings("ignore")
 s = requests.session()
 s.keep_alive = False
-link = "https://github.com/Lotuses-robot/lotuses-robot.github.io/actions/"
+link = "https://github.com/***/***/actions/"
 
 headers = {
     "user-agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71"
