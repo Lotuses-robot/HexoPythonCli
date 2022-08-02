@@ -1,15 +1,3 @@
-# Github_Cookies = {
-#     "_octo" : "GH1.1.2111284038.1649572031",
-#     "_device_id" : "6f57292fb60f30ee61cf5c0b98e0bdb8",
-#     "user_session" : "2n_wEpcFGv0b8r13F9lPAnRA8qvZBL_cLOOO_itFviUftOXx",
-#     "__Host-user_session_same_site" : "2n_wEpcFGv0b8r13F9lPAnRA8qvZBL_cLOOO_itFviUftOXx",
-#     "logged_in" : "yes",
-#     "dotcom_user" : "Lotuses-robot",
-#     "has_recent_activity" : "1",
-#     "tz" : "Asia/Shanghai",
-#     "_gh_sess" : "McIFeS2Ay6ycKY8cR96Y1%2BBvguF5LMZJhbQS%2BM37GhMuEq%2FkMtXFGclHYNqs5Ova24TaX2fMisuxpLBDq%2B11pjv98b0%2BV6q9cP7xJGMO9S4KWFPuM39t5oS%2FecFhsvUgd90QXAmcOLNKMqf4gJdT9aLSxOjBO0y9QRsKuZCszdNwXXQT2cvPcGJLTvnac2l2ajNRxaW2T2VidQhqlEakARAX8xqyXEn3--KLlE3zZmdw%2Bh1qm8--eqjv0YAGrfGALNvpNwCziw%3D%3D"
-# }
-
 headers = {
     "user-agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71"
 }

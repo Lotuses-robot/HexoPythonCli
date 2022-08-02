@@ -35,6 +35,6 @@ while True:
         print('%-15s%s' % ('QUIT:', "Quit."))
         print('\nAlso, you can always input QUIT to quit in any mode.')
     else:
-        print('unknow keywords: ' + CmdList[0])
+        print('Unknow Keywords: ' + CmdList[0])
     
     print('')

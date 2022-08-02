@@ -1,6 +1,6 @@
 import os
-blogLocation = '.../MyBlog/'
-cwdLocation = '.../HexoPythonCli/'
+blogLocation = 'D:/Robot/C++/MyBlog/'
+cwdLocation = 'D:/Robot/C++/myCode/Python/HexoPythonCli_backup/'
 
 def runExt(Name):
     nowCWD = os.getcwd()
